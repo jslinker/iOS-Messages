@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "0f35e45fcbe680650e8b8cd45c106f7a"
+inputs: 
+- "/Users/josephslinker/Desktop/TextEntry/TextEntry/ViewController.swift"
+- "/Users/josephslinker/Desktop/TextEntry/TextEntry/AppDelegate.swift"

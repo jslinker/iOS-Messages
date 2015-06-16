@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "c16be01ae200d0a1396396c2fb0f1872"
+inputs: 
+- "/Users/josephslinker/Desktop/TextEntry/TextEntryTests/TextEntryTests.swift"
